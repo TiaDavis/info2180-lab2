@@ -1,3 +1,9 @@
+/* CSS styles */
+
+h1 {
+ text-align:center
+}
+
 img {
   border-radius: 50%;
 }
@@ -8,4 +14,25 @@ float: right;
 
 #hb  {
 float: right;    
+}
+
+p   {
+font-size: 18px
+color: #2D3748
+font-family: -apple-system,BlinkMacSystemFont,"Segoe
+UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sansserif.
+}
+
+ul  {
+font-size: 18px
+color: #2D3748
+font-family: -apple-system,BlinkMacSystemFont,"Segoe
+UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sansserif.
+}
+
+ol  {
+font-size: 18px
+color: #2D3748
+font-family: -apple-system,BlinkMacSystemFont,"Segoe
+UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sansserif.
 }
