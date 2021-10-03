@@ -4,7 +4,8 @@ h1 {
  text-align:center;
 }
 
-img {
+.image 
+{
   border-radius: 50%;
 }
 
@@ -154,6 +155,7 @@ footer {
 
 .footer{
   color: #FFFFFF;
+  
 }
 article{
   float: right;
