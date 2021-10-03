@@ -67,7 +67,7 @@ h1 {
 }
 
 h2 {
-  color: #48BB78
+  color: #48BB78;
   font-size: 32px
 }
 
@@ -149,5 +149,3 @@ article{
   aside,
   footer {
   margin: 0 1.5% 24px 1.5%;
-
-
