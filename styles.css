@@ -77,6 +77,14 @@ h3{
  color:#000000!important;
  font-family: Georgia,
 'Times New Roman', Times, serif;
+ background: #E2E8F0;
+ width:320;
+}
+
+.darkBackground
+{
+  background: #E2E8F0;
+  width:320;
 }
 
 h4{
