@@ -87,6 +87,10 @@ h3{
   width:320;
 }
 
+.links
+{
+  color: #4299E1;
+}
 h4{
   color: #718096
 }
@@ -141,6 +145,9 @@ footer {
   background-color:#2C5282;
 }
 
+.footer{
+  color: #FFFFFF;
+}
 article{
   float: right;
   margin: 0 1.5%;
